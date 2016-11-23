@@ -1,3 +1,2 @@
 # hello-world
-ハローワールド
-よろしく
+## minaosi 
